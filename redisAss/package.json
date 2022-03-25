@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "express": "^4.17.3",
+        "mongoose": "^6.2.8",
+        "redis": "^4.0.4"
+    },
+    "scripts": { "start": "nodemon src/server" }
+}
